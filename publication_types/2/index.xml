@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on csunyy</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on csunyy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems</title>
+      <link>/publication/a-collision-mitigation-cuckoo-hashing-schme-for-large-scale-storage-systems/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/a-collision-mitigation-cuckoo-hashing-schme-for-large-scale-storage-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
