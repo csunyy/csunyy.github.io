@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 24 Jun 2018 15:28:51 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 00:41:24 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mitigating Asymmetric Read and Write Costs in Cuckoo Hashing for Storage Systems</title>
+      <link>/publication/mitigating-asymmetric-read-and-write-costs-in-cuckoo-hashing-for-storage-systems/</link>
+      <pubDate>Fri, 19 Apr 2019 00:41:24 +0800</pubDate>
+      
+      <guid>/publication/mitigating-asymmetric-read-and-write-costs-in-cuckoo-hashing-for-storage-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems</title>
