@@ -13,20 +13,20 @@
     
     
     <item>
-      <title>Mitigating Asymmetric Read and Write Costs in Cuckoo Hashing for Storage Systems</title>
-      <link>/publication/mitigating-asymmetric-read-and-write-costs-in-cuckoo-hashing-for-storage-systems/</link>
-      <pubDate>Fri, 19 Apr 2019 00:41:24 +0800</pubDate>
+      <title>Improving Restore Performance in Deduplication Systems via a Cost Efficient Rewriting Scheme</title>
+      <link>/publication/improving-restore-performance-in-deduplication-systems-via-a-cost-efficient-rewriting-scheme/</link>
+      <pubDate>Tue, 01 Jan 2019 10:27:21 +0800</pubDate>
       
-      <guid>/publication/mitigating-asymmetric-read-and-write-costs-in-cuckoo-hashing-for-storage-systems/</guid>
+      <guid>/publication/improving-restore-performance-in-deduplication-systems-via-a-cost-efficient-rewriting-scheme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems</title>
-      <link>/publication/a-cost-efficient-rewriting-scheme-to-improve-restore-performance-in-deduplication-systems/</link>
-      <pubDate>Sun, 24 Jun 2018 15:28:51 +0800</pubDate>
+      <title>Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters</title>
+      <link>/publication/bandwidth-and-energy-efficient-image-sharing-for-situation-awareness-in-disasters/</link>
+      <pubDate>Tue, 01 Jan 2019 10:26:24 +0800</pubDate>
       
-      <guid>/publication/a-cost-efficient-rewriting-scheme-to-improve-restore-performance-in-deduplication-systems/</guid>
+      <guid>/publication/bandwidth-and-energy-efficient-image-sharing-for-situation-awareness-in-disasters/</guid>
       <description></description>
     </item>
     
@@ -54,6 +54,15 @@
       <pubDate>Sat, 24 Jun 2017 15:36:22 +0800</pubDate>
       
       <guid>/publication/bees-bandwidth-and-energy-efficient-image-sharing-for-real-time-situation-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cost-efficient Rewriting Scheme to Improve Restore Performance in Deduplication Systems</title>
+      <link>/publication/a-cost-efficient-rewriting-scheme-to-improve-restore-performance-in-deduplication-systems/</link>
+      <pubDate>Sat, 24 Jun 2017 15:28:51 +0800</pubDate>
+      
+      <guid>/publication/a-cost-efficient-rewriting-scheme-to-improve-restore-performance-in-deduplication-systems/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 10:27:21 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving Restore Performance in Deduplication Systems via a Cost Efficient Rewriting Scheme</title>
+      <link>/publication/improving-restore-performance-in-deduplication-systems-via-a-cost-efficient-rewriting-scheme/</link>
+      <pubDate>Tue, 01 Jan 2019 10:27:21 +0800</pubDate>
+      
+      <guid>/publication/improving-restore-performance-in-deduplication-systems-via-a-cost-efficient-rewriting-scheme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth and Energy Efficient Image Sharing for Situation Awareness in Disasters</title>
+      <link>/publication/bandwidth-and-energy-efficient-image-sharing-for-situation-awareness-in-disasters/</link>
+      <pubDate>Tue, 01 Jan 2019 10:26:24 +0800</pubDate>
+      
+      <guid>/publication/bandwidth-and-energy-efficient-image-sharing-for-situation-awareness-in-disasters/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Collision-Mitigation Cuckoo Hashing Scheme for Large-scale Storage Systems</title>
